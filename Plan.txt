@@ -1,0 +1,6 @@
+게임 이름 : Abiwobi (아비워비)
+장르 : 리듬 게임
+운영체제 : Windows ONLY
+게임 엔진 : Unity Engine 2022.1.18f1
+출시 : Steam (?), Itch.io
+개발 시작 날짜 : 2022년 10월 8일
